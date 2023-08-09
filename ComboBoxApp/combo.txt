@@ -1,0 +1,4 @@
+Box{name=Nathi, country=South Africa}
+Box{name=gugu, country=South Africa}
+Box{name=asa, country=South Africa}
+Box{name=sss, country=Spain}
